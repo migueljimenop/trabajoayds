@@ -1,0 +1,6 @@
+pasos para usar git
+1-git clone "...................."
+2-Ingresar al directorio y (modificar o agregar) un archivo
+3-git add (archivo)
+4-git commit -m "..............."
+5-git push origin master

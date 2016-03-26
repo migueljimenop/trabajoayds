@@ -1,0 +1,2 @@
+Esto es una prueba de que sucede cuando hago un pull y elimino todos los archivos obtenidos,
+y luego realizo un push para el repositorio. Es para saber que hace la cosa esta.
